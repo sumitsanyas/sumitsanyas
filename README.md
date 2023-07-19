@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsanyas&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsanyas" /> </p>
 
-- 🌱 I’m currently learning **Power Bi,SQL,Excel**
+- 🌱 I’m currently learning **Power Bi , SQL , Excel**
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_about/sumitsanyas](https://www.novypro.com/profile_about/sumitsanyas)
 
